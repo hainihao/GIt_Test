@@ -18,7 +18,7 @@ public class App {
             Integer key = next.getKey();
             ArrayList arrayList = next.getValue();
             System.out.println("玩家"+key + " :" + arrayList);
-            System.out.println("nihao");
+            System.out.println("海马");
         }
     }
 }
